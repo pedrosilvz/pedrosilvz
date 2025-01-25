@@ -3,8 +3,9 @@
 <code style="color: rgb(197, 219, 97);">Fullstack Developer</code>
 
 <label>I'm a full-stack Brazilian developer that works as much in back-end as
- front-end. <br>  It's never too late to I learn
-more and more about programming! (Sou um desenvolver full-stack brasileiro que trabalha tanto na área de back-end quanto front-end📚</label>
+ front-end. It's never too late to I learn
+more and more about programming! ( Sou um desenvolver full-stack brasileiro que trabalha tanto na área de back-end quanto front-end. Nunca é tarde para eu aprender
+cada vez mais sobre programação! ) 📚</label>
 
   <p align="left">
       <a href="https://www.youtube.com/@pedrosilvz">
