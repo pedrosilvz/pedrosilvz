@@ -4,8 +4,7 @@
 
 <label>I'm a full-stack Brazilian developer that works as much in back-end as
  front-end. It's never too late to I learn
-more and more about programming! ( Sou um desenvolver full-stack brasileiro que trabalha tanto na área de back-end quanto front-end. Nunca é tarde para eu aprender
-cada vez mais sobre programação! ) 📚</label>
+more and more about programming! Subscribe to my Youtube channel called [pdrsily](https://www.youtube.com/@pedrosilvz). In my channel, I talk about programming and games tips, projects, and much more!! 📚</label>
 
   <p align="left">
       <a href="https://www.youtube.com/@pedrosilvz">
