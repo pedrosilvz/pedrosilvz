@@ -1,10 +1,10 @@
-<h1 style = "color: rgb(210, 236, 95)">🥝 Pedro Silva</h1>
+# 🥝 Pedro Silva
 
-<code style="color: rgb(197, 219, 97);">Fullstack Developer</code>
+**`Full-stack Developer`**
 
-<label>I'm a full-stack Brazilian developer that works as much in back-end as
- front-end. It's never too late to I learn
-more and more about programming! Subscribe to my Youtube channel called [pdrsily](https://www.youtube.com/@pedrosilvz). In my channel, I talk about programming and games tips, projects, and much more!! 📚</label>
+I'm a full-stack Brazilian developer that works as much in back-end as
+front-end. It's never too late to I learnmore and more about programming! Subscribe to my Youtube channel called [pdrsily](https://www.youtube.com/@pedrosilvz). In my channel,
+I talk about programming and games tips, projects, and much more!! 📚
 
   <p align="left">
       <a href="https://www.youtube.com/@pedrosilvz">
