@@ -2,7 +2,7 @@
 
 **`Full-stack Developer`**
 
-I'm a full-stack Brazilian developer that works as much in back-end as
+I'm a Full-Stack brazilian developer that works as much in back-end as
 front-end. It's never too late to I learnmore and more about programming! Subscribe to my Youtube channel called [pdrsily](https://www.youtube.com/@pedrosilvz). In my channel,
 I talk about programming and games tips, projects, and much more!! 📚
 
