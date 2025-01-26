@@ -132,16 +132,7 @@ I talk about programming and games tips, projects, and much more!! 📚
     style = "padding-right: 10px;"
     src= "https://github-readme-stats.vercel.app/api?username=pedrosilvz&show_icons=true&theme=merko&border_color=aad000&border_radius=4.5"
 />    
-  <img
-    align = "left"
-    alt = "GitHub"
-    height = "200"
-    style = "padding-right: 10px;"
-    src= "https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosilvz&theme=merko&border_color=aad000&border_radius=4.5"
-/>  
-
-
-
+ 
 
 </p>  
   
