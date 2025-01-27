@@ -11,9 +11,9 @@ I talk about programming and games tips, projects, and much more!! 📚
          <img alt="youtube" title="Subscribe to my YouTube Channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCQ_l3bTD4Y_keZhT46o83aQ?color=FD2E2E&label=Subscribe to my channel&logo=video&logoColor=white&style=for-the-badge&labelColor=e32929"/>
          </a> 
       <a href="https://github.com/pedrosilvz?tab=followers">
-         <img alt="followers" title="Follow me on github" src="https://custom-icon-badges.demolab.com/github/followers/pedrosilvz?color=64b320&labelColor=5ba818&style=for-the-badge&logo=github&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on github" src="https://custom-icon-badges.demolab.com/github/followers/pedrosilvz?color=64b320&labelColor=5ba818&style=for-the-badge&logo=github&logoColor=white&label=follow me"/></a>
       <a href="https://github.com/pedrosilvz?tab=repositories&sort=stargazers">
-         <img alt="stars" title="My stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/pedrosilvz?color=F8C529&style=for-the-badge&labelColor=FFC000&logo=star&logoColor=black"/></a>
+         <img alt="stars" title="My stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/pedrosilvz?color=F8C529&style=for-the-badge&labelColor=FFC000&logo=star&logoColor=black&label=My stars"/></a>
    </p>
 
 ---
