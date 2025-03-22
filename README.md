@@ -1,10 +1,11 @@
-# 🥝 Pedro Silva
+# 🌵 Pedro Silva 🌵
 
 **`Full-stack Developer`**
 
-I'm a Full-Stack brazilian developer that works as much in back-end as
-front-end. It's never too late to I learnmore and more about programming! Subscribe to my Youtube channel called [pdrsily](https://www.youtube.com/@pedrosilvz). In my channel,
-I talk about programming and games tips, projects, and much more!! 📚
+## Welcome, dear! Name's Pedro 🥂
+### I'm a Full-Stack brazilian developer who works as much in back-end as front-end. It is never too late to learn more about programming! Subscribe to my Youtube channel called [pdrsily](https://www.youtube.com/@pedrosilvz) to get videos about programming and games! 📚
+
+<br>
 
   <p align="left">
       <a href="https://www.youtube.com/@pedrosilvz">
